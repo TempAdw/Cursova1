@@ -1,0 +1,16 @@
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.exe
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.deps.json
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.runtimeconfig.json
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.dll
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.pdb
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.Form1.resources
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.csproj.GenerateResource.cache
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.AssemblyInfoInputs.cache
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.AssemblyInfo.cs
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.dll
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\refint\Cursova.dll
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.pdb
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.genruntimeconfig.cache
+C:\Users\TempA\OneDrive\Desktop\Новая папка\Cursova\Cursova\obj\Debug\net8.0-windows\ref\Cursova.dll
